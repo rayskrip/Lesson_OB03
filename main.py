@@ -100,3 +100,6 @@ print(
     f"Сотрудники в зоопарке: {my_zoo.employees[0].__class__.__name__}, {my_zoo.employees[1].__class__.__name__}")
 employee1.feed_animal()
 employee2.heal_animal()
+
+#добавить дополнительные функции в вашу программу, такие как сохранение информации о зоопарке в файл и возможность её загрузки
+
